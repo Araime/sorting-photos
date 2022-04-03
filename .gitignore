@@ -1,0 +1,7 @@
+/venv/
+/.idea/
+/build/
+/help.txt
+/Photo.spec
+/PhotoSorting.spec
+/dist/
